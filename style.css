@@ -1,0 +1,14 @@
+@font-face {
+    font-family: english;
+    src: url('ROLATE.otf');
+}
+@font-face {
+    font-family: bangla;
+    src: url('Li\ Nahida\ Bornomala\ Unicode.ttf');
+}
+h1{
+    font-family: english;   
+}
+h2{
+    font-family: bangla;
+}
